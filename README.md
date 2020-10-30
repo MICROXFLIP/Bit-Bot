@@ -1,2 +1,2 @@
 # Bit-Bot
-A Small Robot for making fun 
+A Small Robot for making fun.
